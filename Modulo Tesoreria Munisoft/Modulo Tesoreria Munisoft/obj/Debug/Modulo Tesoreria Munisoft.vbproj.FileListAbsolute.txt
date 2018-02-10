@@ -19,3 +19,26 @@ I:\proyecto munisoft\munisoft-tesoreria\Modulo Tesoreria Munisoft\Modulo Tesorer
 I:\proyecto munisoft\munisoft-tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.vbproj.GenerateResource.Cache
 I:\proyecto munisoft\munisoft-tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.exe
 I:\proyecto munisoft\munisoft-tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.pdb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\Modulo Tesoreria Munisoft.exe.config
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.exe
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.xml
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.pdb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\Modulo Tesoreria Munisoft.exe
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\Modulo Tesoreria Munisoft.pdb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\Modulo Tesoreria Munisoft.xml
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\MaterialDesignColors.dll
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\MaterialDesignThemes.Wpf.dll
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\MaterialDesignThemes.Wpf.pdb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\bin\Debug\MaterialDesignThemes.Wpf.xml
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.vbprojResolveAssemblyReference.cache
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\login.g.vb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\MainWindow.g.vb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Application.g.vb
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft_MarkupCompile.cache
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft_MarkupCompile.lref
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Application.baml
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\login.baml
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\MainWindow.baml
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.g.resources
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo_Tesoreria_Munisoft.Resources.resources
+I:\GITHUB-MUNISOFT\tesoreria\Munisoft-Tesoreria\Modulo Tesoreria Munisoft\Modulo Tesoreria Munisoft\obj\Debug\Modulo Tesoreria Munisoft.vbproj.GenerateResource.Cache

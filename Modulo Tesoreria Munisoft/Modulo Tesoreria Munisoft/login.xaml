@@ -1,4 +1,4 @@
-﻿<Window x:Class="MainWindow"
+﻿<Window x:Class="login"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
         Background="{DynamicResource MaterialDesignPaper}"
         TextElement.FontWeight="Medium"
@@ -12,7 +12,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Modulo_Tesoreria_Munisoft"
         mc:Ignorable="d"
-        Title="Modulo de Tesoreria" Height="550" Width="950" WindowState="Maximized" >
+        Title="login" Height="550" Width="950" WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.RowDefinitions >
             <RowDefinition Height="30"></RowDefinition>
@@ -41,8 +41,7 @@
                     <PasswordBox  x:Name="txt_Pasword" Width="300" materialDesign:HintAssist.Hint="Contraseña" materialDesign:HintAssist.IsFloating="True" />
                 </StackPanel>
                 <CheckBox  Content=" Recordar contaseña" Margin=" 0 30 0 0"></CheckBox>
-                <Button Command ="{x:Static materialDesign:DialogHost.OpenDialogCommand}" CommandTarget="{Binding ElementName=hecho }"
-                    Content="Inciar Sesion" Width="250" Margin=" 0 30 0 0"></Button>
+                <Button x:Name="btnSesion" Content="Inciar Sesion" Width="250" Margin=" 0 30 0 0" Click="Sesion_Click"></Button>
             </StackPanel>
             <materialDesign:DialogHost IsOpen="False" x:Name="hecho" Grid.RowSpan="3 ">
                 <materialDesign:DialogHost.DialogContent >
@@ -53,7 +52,6 @@
                     </StackPanel>
                 </materialDesign:DialogHost.DialogContent>
             </materialDesign:DialogHost>
-        </Grid>        
+        </Grid>
     </Grid>
-    
 </Window>

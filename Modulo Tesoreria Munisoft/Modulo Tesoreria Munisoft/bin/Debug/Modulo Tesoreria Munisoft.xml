@@ -69,6 +69,16 @@ InitializeComponent
 Application Entry Point.
 </summary>
 </member>
+<member name="T:Modulo_Tesoreria_Munisoft.login">
+<summary>
+login
+</summary>
+</member>
+<member name="M:Modulo_Tesoreria_Munisoft.login.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:Modulo_Tesoreria_Munisoft.MainWindow">
 <summary>
 MainWindow
